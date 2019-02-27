@@ -1,17 +1,16 @@
-# PepReaderTextbookSDK
-SDK集成包
-
-
 ## SDK集成
 1.将提供的PEPReaderTextbookSDK及资源.zip解压，拖入工程中
-包括以下三个文件：
+包括以下两个个文件：
 
 ![image](https://github.com/PEPDigitalPublishing/PEPImageHost/raw/master/TextbookSDK/img1.jpg)
 
 
 2.添加依赖
 在 Target --> General 中 添加以下依赖
+
+<font color="orange">由于人教点读SDK依赖的福昕RDK文件较大，无法上传GitHub，可以[点击这里](http://rjddresw.mypep.cn/xueln/FoxitRDK.framework_v6.1.zip)下载，然后将解压出的FoxitRDK.framework导入到项目中。</font>
 ![image](https://github.com/PEPDigitalPublishing/PEPImageHost/raw/master/TextbookSDK/img2.jpg)
+
 
 
 3. buldSetting 中设置 Allow Non-modular Includes In Framework Modules 为 YES
