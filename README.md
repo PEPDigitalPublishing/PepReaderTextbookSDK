@@ -8,7 +8,7 @@
 2.添加依赖
 在 Target --> General 中 添加以下依赖
 
-<font color="orange">由于人教点读SDK依赖的福昕RDK文件较大，无法上传GitHub，可以[点击这里](http://rjddresw.mypep.cn/xueln/FoxitRDK.framework_v6.1.zip)下载，然后将解压出的FoxitRDK.framework导入到项目中。</font>
+<font color="orange">由于SDK依赖的福昕RDK文件较大，无法上传GitHub，可以[点击这里](https://rjszgsres.mypep.cn/rjdd/iOSFoxitRDK/FoxitRDK.framework.zip)下载，然后将解压出的FoxitRDK.framework导入到项目中。</font>
 ![image](https://github.com/PEPDigitalPublishing/PEPImageHost/raw/master/TextbookSDK/img2.jpg)
 
 
